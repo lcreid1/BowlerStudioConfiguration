@@ -1,8 +1,15 @@
 {
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://gist.github.com/a7acb6c8422a6de2043d3613be66b3a8.git:BNO055Visualizer.groovy": [
+      "https://gist.github.com/a7acb6c8422a6de2043d3613be66b3a8.git",
+      "BNO055Visualizer.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "firstVersion": "0.29.2",
     "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "0.29.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
